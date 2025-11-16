@@ -1,27 +1,30 @@
- # WeatherApp Project
-This is a simple Weather App built with HTML, CSS, and JavaScript. It fetches real-time weather data using the OpenWeatherMap API and displays it in a clean and responsive UI.
+# 🌦️ Weather App Project
+
+This is a simple **Weather App** built with **HTML**, **CSS**, and **JavaScript**.  
+It fetches real-time weather data using the **OpenWeatherMap API** and displays it in a clean and responsive UI.
+
+---
 
 
-# Technologies Used:
-HTML5
+## 🛠️ Technologies Used
 
-CSS3
+- HTML5
+- CSS3
+- JavaScript
+- OpenWeatherMap API
 
-JavaScript
+---
 
-OpenWeatherMap API
+## 📚 How It Works
 
+- User types the name of a city into the search bar.
+- The app fetches weather data from OpenWeatherMap.
+- It displays the city's temperature, humidity, and wind speed instantly.
 
-# How It Works:
-User types the name of a city into the search bar.
+---
 
-The app fetches weather data from OpenWeatherMap.
+## 🔥 Features
 
-It displays the city's temperature, humidity, and wind speed instantly.
+- Real-time API data fetching
+- Search functionality with button click and 'Enter' key press
 
-
-# Features:
-
-Real-time API data fetching
-
-Search functionality with button click and 'Enter' key press
